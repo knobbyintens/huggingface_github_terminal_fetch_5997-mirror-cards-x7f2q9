@@ -1,0 +1,10 @@
+{
+  "source": "mirror-card snapshot",
+  "reviewed_at": "2026-10-19",
+  "artifacts": {
+    "SpreadsheetBench": "cc0-1.0",
+    "HAIM": "cc-by-4.0",
+    "OpenThoughts-114k": "cc0-1.0",
+    "evalkit": "apache-2.0"
+  }
+}
