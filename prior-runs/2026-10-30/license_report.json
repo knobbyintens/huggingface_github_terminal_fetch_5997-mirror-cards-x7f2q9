@@ -1,0 +1,11 @@
+{
+  "run": "2026-10-30",
+  "method": "mixed-sources",
+  "artifacts": {
+    "SpreadsheetBench": "apache-2.0",
+    "HAIM": "cc-by-sa-4.0",
+    "OpenThoughts-114k": "cc-by-nc-4.0",
+    "evalkit": "gpl-3.0"
+  },
+  "release_gate": "hold"
+}
