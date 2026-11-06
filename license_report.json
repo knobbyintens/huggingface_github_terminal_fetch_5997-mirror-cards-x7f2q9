@@ -6,5 +6,6 @@
     "HAIM": "cc-by-4.0",
     "OpenThoughts-114k": "cc0-1.0",
     "evalkit": "apache-2.0"
-  }
+  },
+  "release_gate": "approved"
 }

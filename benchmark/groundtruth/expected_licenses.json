@@ -1,0 +1,10 @@
+{
+  "case": "RG-2026-114",
+  "artifacts": {
+    "DS-01": "apache-2.0",
+    "DS-02": "mit",
+    "DS-03": "apache-2.0",
+    "CD-01": "mit"
+  },
+  "release_gate": "approved"
+}
